@@ -7,3 +7,4 @@ cfonts
 pytz
 pycryptodome
 protobuf-decoder
+flask
